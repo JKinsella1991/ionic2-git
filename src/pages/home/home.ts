@@ -12,7 +12,7 @@ export class HomePage {
     
   }
   someFunction(){
-    
+    //Test
   }
 
 }
